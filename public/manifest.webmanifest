@@ -1,0 +1,15 @@
+{
+  "id": "/",
+  "name": "HABARI Travel Weather",
+  "short_name": "HABARI Travel",
+  "description": "Local weather, travel forecasts, outfit ideas and smart packing checklists.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7fc",
+  "theme_color": "#477be8",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
